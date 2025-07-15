@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "noEmit": true,
+    "allowJs": true,
+    "strict": true,
+    "maxNodeModuleJsDepth": 2,
+    "useUnknownInCatchVariables": false,
+    "noImplicitAny": false,
+    "target": "es2024"
+  },
+  "include": ["./**/*.js"]
+}
